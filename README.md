@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Chris Ketron (@caketron)
-- 👀 I’m interested in ... coding up quick little solutions to common everyday tasks.  I also love Astronomy, getting out in Nature - nature walks, bike riding, camping.
+- 👀 I’m interested in ... coding up quick little solutions to common everyday tasks.  
+- I also love✨Astronomy, Beekeeping, Reef Aquarium, and getting out in Nature: nature walks, camping, bike riding.
 - 🌱 I’m currently learning ... Python and AWS
 - 📫 How to reach me ... caketron@cox.net
 
